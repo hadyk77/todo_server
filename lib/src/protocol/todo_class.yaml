@@ -1,0 +1,7 @@
+class: Todo
+table: todo
+fields:
+  title: String
+  expireDate: DateTime
+  createdAt: DateTime
+  completed: bool
